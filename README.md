@@ -15,8 +15,6 @@
 
 # 💻 기술 스택 (Tech Stack)
 
-이곳에는 본인이 사용할 수 있는 기술들을 카테고리별로 정리하세요.
-
 ### Languages
 - Java, Python, JavaScript
 
