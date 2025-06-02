@@ -16,7 +16,7 @@
 # 💻 기술 스택 (Tech Stack)
 
 ### Languages
-- <img src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=html5&logoColor=white">, Python, JavaScript
+- <img src="https://img.shields.io/badge/JAVA-9b15da?style=for-the-badge&logo=JAVA&logoColor=white">, Python, JavaScript
 
 ### Frontend
 - React, <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white">
