@@ -22,13 +22,13 @@
 -  <img src="https://img.shields.io/badge/-React-27d2f1?style=for-the-badge&logo=-React&logoColor=white">, <img src="https://img.shields.io/badge/HTML/CSS-04e05c?style=for-the-badge&logo=html5&logoColor=white">
 
 ### Backend
-- <img src="https://img.shields.io/badge/-Spring Boot-faf728?style=for-the-badge&logo=-Spring Boot&logoColor=white">
+- <img src="https://img.shields.io/badge/-SpringBoot-faf728?style=for-the-badge&logo=-Spring Boot&logoColor=white">
 
 ### Database
-- <img src="https://img.shields.io/badge/-My SQL-fcb83b?style=for-the-badge&logo=-My SQL&logoColor=white">
+- <img src="https://img.shields.io/badge/-MySQL-fcb83b?style=for-the-badge&logo=-My SQL&logoColor=white">
 
 ### Tools & Etc.
-- <img src="https://img.shields.io/badge/-Git-fcb83b?style=for-the-badge&logo=-Git&logoColor=white">, <img src="https://img.shields.io/badge/-Docker-4b98dc?style=for-the-badge&logo=-Docker&logoColor=white">, <img src="https://img.shields.io/badge/-AWS-ecd403?style=for-the-badge&logo=-AWS&logoColor=white">, <img src="https://img.shields.io/badge/-Figma-f33bf6?style=for-the-badge&logo=-Figma&logoColor=white">
+- <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=-Git&logoColor=white">, <img src="https://img.shields.io/badge/-Docker-4b98dc?style=for-the-badge&logo=-Docker&logoColor=white">, <img src="https://img.shields.io/badge/-AWS-ecd403?style=for-the-badge&logo=-AWS&logoColor=white">, <img src="https://img.shields.io/badge/-Figma-f33bf6?style=for-the-badge&logo=-Figma&logoColor=white">
 
 ---
 
