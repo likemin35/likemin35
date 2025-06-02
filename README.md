@@ -66,7 +66,7 @@
 -(미정)
 
 ### 📂 결과물 (추후 업로드 예정)
-- 🔗 [GitHub Repository]([https://github.com/여기에_링크_삽입](https://github.com/Amilaje/Library_management.git)
+- 🔗 [GitHub Repository](https://github.com/Amilaje/Library_management.git)
 - 📄 [PPT 보기](./폴더명/파일이름.pdf)
 - 🖼️ [시연 이미지/스크린샷](./폴더명/스크린샷.png) (선택사항)
 
