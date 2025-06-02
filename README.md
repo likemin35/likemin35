@@ -16,16 +16,16 @@
 # 💻 기술 스택 (Tech Stack)
 
 ### Languages
-- <img src="https://img.shields.io/badge/JAVA-9b15da?style=for-the-badge&logo=JAVA&logoColor=white">, <img src="https://img.shields.io/badge/-Python-309af7?style=for-the-badge&logo=Python&logoColor=white">, <img src="https://img.shields.io/badge/-JavaScript-eda9f9?style=for-the-badge&logo=-JavaScript&logoColor=white">
+- <img src="https://img.shields.io/badge/JAVA-9b15da?style=for-the-badge&logo=JAVA&logoColor=white">, <img src="https://img.shields.io/badge/-Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">, <img src="https://img.shields.io/badge/-JavaScript-#F7DF1E?style=for-the-badge&logo=-JavaScript&logoColor=white">
 
 ### Frontend
--  <img src="https://img.shields.io/badge/-React-27d2f1?style=for-the-badge&logo=-React&logoColor=white">, <img src="https://img.shields.io/badge/HTML/CSS-04e05c?style=for-the-badge&logo=html5&logoColor=white">
+-  <img src="https://img.shields.io/badge/-React-#61DAFB?style=for-the-badge&logo=-React&logoColor=white">, <img src="https://img.shields.io/badge/HTML/CSS-#E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 ### Backend
-- <img src="https://img.shields.io/badge/-SpringBoot-faf728?style=for-the-badge&logo=-Spring Boot&logoColor=white">
+- <img src="https://img.shields.io/badge/-SpringBoot-#6DB33F?style=for-the-badge&logo=-SpringBoot&logoColor=white">
 
 ### Database
-- <img src="https://img.shields.io/badge/-MySQL-fcb83b?style=for-the-badge&logo=-My SQL&logoColor=white">
+- <img src="https://img.shields.io/badge/-MySQL-#4479A1?style=for-the-badge&logo=-MySQL&logoColor=white">
 
 ### Tools & Etc.
 - <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=-Git&logoColor=white">, <img src="https://img.shields.io/badge/-Docker-4b98dc?style=for-the-badge&logo=-Docker&logoColor=white">, <img src="https://img.shields.io/badge/-AWS-ecd403?style=for-the-badge&logo=-AWS&logoColor=white">, <img src="https://img.shields.io/badge/-Figma-f33bf6?style=for-the-badge&logo=-Figma&logoColor=white">
