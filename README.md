@@ -16,19 +16,19 @@
 # 💻 기술 스택 (Tech Stack)
 
 ### Languages
-- <img src="https://img.shields.io/badge/JAVA-9b15da?style=for-the-badge&logo=JAVA&logoColor=white">, Python, JavaScript
+- <img src="https://img.shields.io/badge/JAVA-9b15da?style=for-the-badge&logo=JAVA&logoColor=white">, <img src="https://img.shields.io/badge/-Python-309af7?style=for-the-badge&logo=Python&logoColor=white">, <img src="https://img.shields.io/badge/-JavaScript-eda9f9?style=for-the-badge&logo=-JavaScript&logoColor=white">
 
 ### Frontend
-- React, <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+-  <img src="https://img.shields.io/badge/-React-27d2f1?style=for-the-badge&logo=-React&logoColor=white">, <img src="https://img.shields.io/badge/HTML/CSS-04e05c?style=for-the-badge&logo=html5&logoColor=white">
 
 ### Backend
-- Spring Boot
+- <img src="https://img.shields.io/badge/-Spring Boot-faf728?style=for-the-badge&logo=-Spring Boot&logoColor=white">
 
 ### Database
-- MySQL
+- <img src="https://img.shields.io/badge/-My SQL-fcb83b?style=for-the-badge&logo=-My SQL&logoColor=white">
 
 ### Tools & Etc.
-- Git, GitHub, Docker, AWS, Figma
+- <img src="https://img.shields.io/badge/-Git-fcb83b?style=for-the-badge&logo=-Git&logoColor=white">, <img src="https://img.shields.io/badge/-Docker-4b98dc?style=for-the-badge&logo=-Docker&logoColor=white">, <img src="https://img.shields.io/badge/-AWS-ecd403?style=for-the-badge&logo=-AWS&logoColor=white">, <img src="https://img.shields.io/badge/-Figma-f33bf6?style=for-the-badge&logo=-Figma&logoColor=white">
 
 ---
 
