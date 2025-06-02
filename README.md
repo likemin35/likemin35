@@ -16,10 +16,10 @@
 # 💻 기술 스택 (Tech Stack)
 
 ### Languages
-- <img src="https://img.shields.io/badge/JAVA-9b15da?style=for-the-badge&logo=JAVA&logoColor=white">, <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">, <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=-JavaScript&logoColor=white">
+- <img src="https://img.shields.io/badge/JAVA-9b15da?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=-JavaScript&logoColor=white">
 
 ### Frontend
--  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=-React&logoColor=white">, <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=-React&logoColor=white"> <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 ### Backend
 - <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=-SpringBoot&logoColor=white">
@@ -28,7 +28,8 @@
 - <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=-MySQL&logoColor=white">
 
 ### Tools & Etc.
-- <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=-Git&logoColor=white">, <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=-GitHub&logoColor=white">, <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=-Docker&logoColor=white">, <img src="https://img.shields.io/badge/-AWS-ecd403?style=for-the-badge&logo=-AWS&logoColor=white">, <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=-Figma&logoColor=white">
+- <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=-Git&logoColor=white"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=-GitHub&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=-Docker&logoColor=white">
+<img src="https://img.shields.io/badge/-AWS-ecd403?style=for-the-badge&logo=-AWS&logoColor=white"> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=-Figma&logoColor=white">
 
 ---
 
