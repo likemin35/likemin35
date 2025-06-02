@@ -16,10 +16,10 @@
 # 💻 기술 스택 (Tech Stack)
 
 ### Languages
-- Java, Python, JavaScript
+- <img src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=html5&logoColor=white">, Python, JavaScript
 
 ### Frontend
-- React, <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- React, <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 ### Backend
 - Spring Boot
